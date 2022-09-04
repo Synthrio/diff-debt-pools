@@ -30,9 +30,7 @@ b.  User takes more debt, increasing the amount of $DPS(j)$ employed
     > (i.e. reducing the amount of $\text{TheoreticalDPS}$ he is
     > assigned to).
 
-```{=html}
-<!-- -->
-```
+
 3.  When there is a swap between DPSs of different DPs, what changes is
     > not the price of the individual DPS(j) but the quantity of DPS
     > transferred. Since individual user debt is affected by quantity of

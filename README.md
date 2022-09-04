@@ -127,23 +127,23 @@ since the isolated C-Ratio is close to 120%.
 
 Liquidation C-Ratio:120%
 
-ETH Position: \{Collateral = 100USDT
+ETH Position: \{Collateral = 100USDT,
 
-DPSETH=83.3
+DPSETH=83.3,
 
-thDPSETH=0
+thDPSETH=0,
 
-ETH Price=1\$
+ETH Price=1\$ ,
 
 ETHC-Ratio= 120%\}
 
-BTC position\{Collateral=100 USDT
+BTC position: \{Collateral=100 USDT,
 
-DPSBTC=2
+DPSBTC=2,
 
-thDPSBTC=1.33
+thDPSBTC=1.33,
 
-BTC Price 20\$
+BTC Price 20\$ ,
 
 BTCC-Ratio=250%\}
 

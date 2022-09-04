@@ -127,7 +127,9 @@ since the isolated C-Ratio is close to 120%.
 
 Liquidation C-Ratio:120%
 
-ETH Position: \{Collateral = 100USDT,
+#ETH Position: 
+
+\{Collateral = 100USDT,
 
 DPSETH=83.3,
 
@@ -137,7 +139,9 @@ ETH Price=1\$ ,
 
 ETHC-Ratio= 120%\}
 
-BTC position: \{Collateral=100 USDT,
+#BTC position: 
+
+\{Collateral=100 USDT,
 
 DPSBTC=2,
 
@@ -160,7 +164,7 @@ liquidations occur.
 
 Liquidations are split into equal portions.
 
-Example
+Example:
 
 User A has BTC and ETH positions with a C-Ratio of 120% thus his
 GC-Ratio is 120%. Then there is a rise in debt value. GC-Ratio becomes

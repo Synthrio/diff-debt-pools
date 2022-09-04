@@ -127,7 +127,7 @@ since the isolated C-Ratio is close to 120%.
 
 Liquidation C-Ratio:120%
 
-#ETH Position: 
+# ETH Position: 
 
 ETH-POS = {Collateral : 100 USDT,
 
@@ -139,7 +139,7 @@ ETH Price : 1\$ ,
 
 ETH C-Ratio :  120%\}
 
-#BTC position: 
+# BTC position: 
 
 
 BTC-POS = {Collateral:100 USDT,

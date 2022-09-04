@@ -129,7 +129,7 @@ Liquidation C-Ratio:120%
 
 ### ETH Position: 
 
-ETH-POS = {Collateral : 100 USDT,
+''' ETH-POS = {Collateral : 100 USDT,
 
 DPS-ETH: 83.3,
 
@@ -137,7 +137,7 @@ thDPSETH : 0,
 
 ETH Price : 1\$ ,
 
-ETH C-Ratio :  120%\}
+ETH C-Ratio :  120%\} '''
 
 ### BTC position: 
 

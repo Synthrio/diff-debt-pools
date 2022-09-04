@@ -129,7 +129,7 @@ Liquidation C-Ratio:120%
 
 ### ETH Position: 
 
-''' ETH-POS = {Collateral : 100 USDT,
+``` ETH-POS = {Collateral : 100 USDT,
 
 DPS-ETH: 83.3,
 
@@ -137,10 +137,15 @@ thDPSETH : 0,
 
 ETH Price : 1\$ ,
 
-ETH C-Ratio :  120%\} '''
+ETH C-Ratio :  120%\}
+
+```
+
 
 ### BTC position: 
 
+
+```
 
 BTC-POS = {Collateral:100 USDT,
 
@@ -151,6 +156,8 @@ thDPSBTC : 1.33,
 BTC Price : 20$ ,
 
 BTCC-Ratio : 250%\}
+
+```
 
 At this point, there is a rebalance in individual collateral and DPS. A
 portion of thDPSBTC is transferred to thDPSETH and then thDPSETH is
